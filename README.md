@@ -4,8 +4,6 @@ I’m a **Software Engineer** with experience building and leading real-world sy
 
 I enjoy working close to the product, turning ideas into scalable, maintainable software, and I’m especially interested in **early-stage startups and high-ownership roles**.
 
----
-
 ## If you are…
 
 -  **A startup** looking for an engineer who can take ownership and build end-to-end features  
@@ -15,8 +13,6 @@ I enjoy working close to the product, turning ideas into scalable, maintainable 
 
 Then I believe you are in the right place.
 
----
-
 ## What I bring to the table
 
 - Strong full-stack experience with **React, Node.js, and TypeScript**
@@ -24,8 +20,6 @@ Then I believe you are in the right place.
 - Leading small teams, reviewing code, and setting technical direction
 - Comfort working in **fast-moving startup environments** with evolving requirements
 - A bias toward building things that actually ship and get used
-
----
 
 ## Tech I work with
 
