@@ -1,7 +1,9 @@
 # Hello World 👋
 
 My name is **Aditya**, an IIT Bhilai trained Software Engineer with experience building real-world systems across startups environments. I'm a huge fan of Node.js, TypeScript, open-source and writing testable software.
+
 When I'm not crushing bugs or bringing visions into reality, I can be found diving deep into math and science rabbit holes (with a particular love for probability ❤️), learning Japanese, drawing, traveling or relaxing at home playing classic RPGs.
+
 I enjoy working close to the product, turning ideas into scalable, maintainable software, and I’m especially interested in **early-stage startups and high-ownership roles**.
 
 ## I'm currently working on
