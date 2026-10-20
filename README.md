@@ -1,8 +1,11 @@
-# Hi, I'm Aditya 👋
+# Hello World 👋
 
-I’m a **Software Engineer** with experience building and leading real-world systems across startups and enterprise environments.
-
+My name is **Aditya**, an IIT Bhilai trained Software Engineer with experience building real-world systems across startups environments. I'm a huge fan of Node.js, TypeScript, open-source and writing testable software.
+When I'm not crushing bugs or bringing visions into reality, I can be found diving deep into math and science rabbit holes (with a particular love for probability ❤️), learning Japanese, drawing, traveling or relaxing at home playing classic RPGs.
 I enjoy working close to the product, turning ideas into scalable, maintainable software, and I’m especially interested in **early-stage startups and high-ownership roles**.
+
+## I'm currently working on
+[ShinzuKanji](shinzu-kanji.netlify.app): a visual lab that maps out kanji and vocabulary connections as an interactive graph so students can learn through context instead of flat lists. I started development on this because I felt a disconnect while learning Japanese vocab with flashcards (which felt like rote-memorisation) but ShinzuKanji has grown a lot since then.
 
 ## If you are…
 
@@ -23,10 +26,10 @@ Then I believe you are in the right place.
 
 ## Tech I work with
 
-- **Frontend:** React, TypeScript, Tailwind, Redux, HTML, CSS, 
-- **Backend:** Node.js, Express, Nest.js, GraphQL
-- **Databases:** MongoDB, MySQL, Postgres  
-- **Tools:** Git, AWS, CI/CD basics
+- **Frontend:** React, Astro.js, Next.js
+- **Backend:** Node.js, Express, Nest.js
+- **Databases:** MongoDB, MySQL, Postgres, Neo4j
+- **Tools:** Git, AWS, CI/CD
 
 ---
 
